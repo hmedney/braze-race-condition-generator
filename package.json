@@ -1,0 +1,12 @@
+{
+  "name": "braze_event_generator",
+  "description": "Generate events that cause a race condition",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.0"
+  }
+}
